@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O Código e  o Bug</title>
+    <link>https://mrmateussiilva.github.io/</link>
+    <description>Recent content on O Código e  o Bug</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <lastBuildDate>Tue, 11 Mar 2025 16:57:58 +0000</lastBuildDate>
+    <atom:link href="https://mrmateussiilva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://mrmateussiilva.github.io/posts/primeiro-post/</link>
+      <pubDate>Tue, 11 Mar 2025 16:57:58 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/posts/primeiro-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/manifest.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://mrmateussiilva.github.io/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

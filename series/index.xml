@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on O Código e  o Bug</title>
+    <link>https://mrmateussiilva.github.io/series/</link>
+    <description>Recent content in Series on O Código e  o Bug</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <atom:link href="https://mrmateussiilva.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on O Código e  o Bug</title>
+    <link>https://mrmateussiilva.github.io/posts/</link>
+    <description>Recent content in Posts on O Código e  o Bug</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <lastBuildDate>Tue, 11 Mar 2025 16:57:58 +0000</lastBuildDate>
+    <atom:link href="https://mrmateussiilva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://mrmateussiilva.github.io/posts/primeiro-post/</link>
+      <pubDate>Tue, 11 Mar 2025 16:57:58 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://mrmateussiilva.github.io/posts/primeiro-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
