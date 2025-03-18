@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on O Código e o Bug</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://mrmateussiilva.github.io/posts/</link>
     <description>Recent content in Posts on O Código e o Bug</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 17 Mar 2025 15:32:24 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrmateussiilva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meu Primeiro Post</title>
-      <link>http://localhost:1313/posts/meu-primeiro-post/</link>
+      <link>https://mrmateussiilva.github.io/posts/meu-primeiro-post/</link>
       <pubDate>Mon, 17 Mar 2025 15:32:24 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meu-primeiro-post/</guid>
+      <guid>https://mrmateussiilva.github.io/posts/meu-primeiro-post/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;</description>
     </item>
   </channel>
