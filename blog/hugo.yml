@@ -1,0 +1,30 @@
+baseURL: https://mrmateussiilva.github.io/
+languageCode: pt-br
+title: O Código e o Bug
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Início
+      url: "/"
+      weight: 1
+
+    - identifier: posts
+      name: "Posts"
+      url: "/posts/"
+      weight: 2
+
+
+# params:
+#   defaultTheme: auto
+#   ShowReadingTime: true
+#   ShowShareButtons: true
+#   ShowPostNavLinks: true
+#   ShowBreadCrumbs: true
+
+
+  
+#   homeInfoParams:
+#     Title: Olá, Seja Bem vindo.
+#     Content: 
